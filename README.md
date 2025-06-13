@@ -20,4 +20,4 @@ Some of the data science techniques and tools I've used are:
 + Data wrangling and mining
 + Machine Learning
 
-![I've included a photograph of an ice cream sundae that was by far the best an biggest sugar crash I've ever had.](/assets/images/Ice_Cream.jpeg "Cookie Monster Ice Cream")
+![I've included a photograph of an ice cream sundae that was by far the best an biggest sugar crash I've ever had.](Python-Experiments/Ice_Cream.jpg "Cookie Monster Ice Cream")
